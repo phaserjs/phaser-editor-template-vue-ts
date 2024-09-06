@@ -1,5 +1,5 @@
 {
-    "name": "template-vue-ts",
+    "name": "phaser-editor-template-vue-ts",
     "description": "A Phaser 3 TypeScript project template that demonstrates Vue communication and uses Vite for bundling.",
     "version": "1.2.1",
     "repository": {
